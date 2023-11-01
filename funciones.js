@@ -23,3 +23,9 @@ const restar = function(a, b){
 const multiplicar = (a, b) => {
     return a * b
 }
+
+function calcular(...rest){
+
+}
+
+calcular(1, 2, 3)
